@@ -1,0 +1,36 @@
+
+
+
+body{
+   background-color:rgb(70, 70, 70);
+}
+main{
+     text-align: center;
+    font-weight: bold;
+    background-color: aliceblue;
+    margin:60px 60px 0px 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+main > h1{
+    text-decoration: underline;
+}
+
+main > ul{
+    list-style-position: inside;
+    background-color: gray;
+    margin:30px 350px 20px 350px;
+    padding-top: 10px;
+
+}
+footer{
+    font-weight: bold;
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    background-color: white;
+    
+}
